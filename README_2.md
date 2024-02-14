@@ -75,15 +75,15 @@ This document provides my overall experience with Tkinter library and answers th
   def greet():
       print("Hello World!")
   
-  # Create the main window
+  Commented # Create the main window
   root = tk.Tk()
   root.title("Simple code")
   
-  # Create a button widget
+  Commented # Create a button widget
   greet_button = tk.Button(root, text="Greet", command=greet)
   greet_button.pack()
   
-  # Start the Tkinter event loop
+  Commented # Start the Tkinter event loop
   root.mainloop()
 
 
