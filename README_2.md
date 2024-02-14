@@ -89,6 +89,11 @@ This document provides my overall experience with Tkinter library and answers th
 
  - With good experience one can make a game in Tkinter. Example: 
     <img width="647" alt="Screenshot 2024-02-13 at 11 51 34 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-aritrade001/assets/114476308/d2f16e1d-08db-41f2-ae00-028a08fdd72f">
+   - References for some good code in Tkinter:
+    [https://realpython.com/tic-tac-toe-python/]
+   - This reference is very helpful.
+     [https://www.tutorialsteacher.com/python/create-gui-using-tkinter-python]
+   
  - Just like my application, we could also make File Explorer: Navigate and manage the filesystem, Chat Application to implement client-server chat interfaces, and Music Players.
 
 </p>
