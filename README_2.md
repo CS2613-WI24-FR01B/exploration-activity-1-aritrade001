@@ -1,12 +1,6 @@
 # CS2613: De,Aritra Library Experience Exploration Activity 1
 
 
-
-7. How was your overall experience with the package/library?
-• When would you recommend this package/library to someone?
-• Would you continue using this package/library? Why or why not?
-
-
 # Question and Answers (included below)
 
 ## Table of Contents
@@ -109,7 +103,7 @@ This document provides my overall experience with Tkinter library and answers th
 </details>
 
 <details>
-<summary>When was it created?</summary>
+<summary>Why did you select this package/library?</summary>
 <p>
 - I selected this because it helps me as a beginner to explore the libary and it is easy to use. For my application, it required heavy GUI dashboard and this was a 
   good investment on time and energy. There was lot of open source documentation on the internet.
