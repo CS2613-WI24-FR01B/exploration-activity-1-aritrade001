@@ -118,7 +118,7 @@ This document provides my overall experience with Tkinter library and answers th
 - It was compatible with python and helped me practice the core fundamental concepts again like functions, event handling, api reference.
 - It helped me appreciate the integrated usage of different python libraries.
 - After every change, I ran the module to check my progress and this also helped me catch errors in the python console and debuggging.
-- I actually found some of my cases in the open internet and edited my internal structures accordingly. So, it enhance my problem solving 
+- I actually found some of my cases in the open internet and edited my internal structures accordingly. So, it enhanced my problem solving 
   skills based on python language.
 </p>
 </details>
