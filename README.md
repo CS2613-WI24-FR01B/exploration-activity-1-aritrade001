@@ -14,7 +14,7 @@
 - [Contributing](#contributing)
 
 ## Introduction
-This document provides an overview of my exploration activity 1 for CS2613. This application is designed to help improve my understanding about the libraries of python and get hands-on learning experience from  the organization websites and youtube channels within the project's community. This appliaction can be improved if we can add additional feature to compare different databases and pick the avaerage data-point as our result. In line with the scope of my course, my prototype just allows you to go through one source and extract the best results of interest related to the climate of a place.
+This document provides an overview of my exploration activity 1 for CS2613. This application is designed to help improve my understanding about the libraries of python and get hands-on learning experience from  the organization websites and youtube channels within the project's community. This application can be improved if we can add additional feature to compare different databases and pick the avaerage data-point as our result. In line with the scope of my course, my prototype just allows you to go through one source and extract the best results of interest related to the climate of a place.
 
 
 ## Questions
